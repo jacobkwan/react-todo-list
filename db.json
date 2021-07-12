@@ -11,6 +11,12 @@
       "text": "Buy the other thing",
       "day": "Feb 6th",
       "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Check email",
+      "day": "Feb 9th",
+      "reminder": false
     }
   ]
 }
