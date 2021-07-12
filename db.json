@@ -4,7 +4,7 @@
       "id": 1,
       "text": "Get the things",
       "day": "Feb 5th",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 2,
