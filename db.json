@@ -2,18 +2,15 @@
   "tasks": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "text": "Get the things",
+      "day": "Feb 5th",
+      "reminder": true
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "text": "Buy the other thing",
+      "day": "Feb 6th",
+      "reminder": true
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
